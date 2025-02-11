@@ -12,7 +12,7 @@ Analyze customer demographics, commuting patterns, income levels, and lifestyle 
 - How does the distance a person commutes impact their decision to purchase a bike?
 - How does owning multiple cars affect the likelihood of purchasing a bike?
 
-- Dashboard <a href="https://github.com/Fathimathu-swafa/Bike-Purchase-Analysis-Dashboard/blob/main/Dashboard%20Image.png"> View </a>
+- <a href="https://github.com/Fathimathu-swafa/Bike-Purchase-Analysis-Dashboard/blob/main/Dashboard%20Image.png"> Dashboard </a>
 
 ## Process
 - Data is collected Age, Gender, Income Level, education, bike purchased or not, No. of cars, etc.
