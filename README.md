@@ -1,2 +1,7 @@
-# Bike-Purchase-Analysis-Dashboard
-This data analysis focuses on understanding the factors influencing bike purchases. The goal is to uncover patterns, trends, and actionable insights that can help improve marketing strategies, target the right customer segments, and optimize sales performance.
+#Bike Purchase Analysis Dashboard (Interactive Dashboard using MS Excel)
+##Project Objective
+Analyze customer demographics, commuting patterns, income levels, and lifestyle factors to identify key trends influencing bike purchase decisions. By examining the impact of commute distance, income, age group, and car ownership, this project aims to provide actionable insights for targeted marketing, product development, and customer engagement strategies.
+
+##Dataset used
+- <a href="https://github.com/Fathimathu-swafa/Bike-Purchase-Analysis-Dashboard/blob/main/Raw%20Dataset.xlsx">Dataset</a>
+
